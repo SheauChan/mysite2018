@@ -1,0 +1,102 @@
+.container {
+    width: 80%;
+    margin: 120px auto;
+}
+
+.div1 {
+    float: left;
+    width: 98%;
+    height: 100px;
+    outline: 1px solid red;
+
+}
+
+.div2 {
+    float: left;
+    width: 33%;
+    height: 100px;
+    outline: 1px solid olive;
+}
+
+.div3 {
+    float: left;
+    width: 32%;
+    height: 100px;
+    outline: 1px solid fuchsia;
+}
+
+.div4 {
+    float: left;
+    width: 33%;
+    height: 100px;
+    outline: 1px solid maroon;
+}
+
+.div5 {
+    float: left;
+    width: 98%;
+    height: 100px;
+    outline: 1px solid red;
+}
+
+/* sample02.html */
+header {
+    padding: 0px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav {
+    text-align: center;
+    background-color: aqua;
+    padding-top: 10px;
+    height: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+ ul li {
+     display: inline;
+     padding-left: 10px;
+     padding-right: 10px;
+     text-align: left;
+     font-size: 16px;
+     font-weight: bold;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ }
+
+ article {
+     padding: 5px;
+     border: dotted 3px #ff0066;
+     margin-top: 50px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ aside {
+    padding: 5px;
+    border: double 5px #b200ff;
+    margin-top: 50px;
+    text-align: center;
+    font-style: italic;
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+ }
+
+ section {
+    padding: 5px;
+    margin-top: 5px;
+    border: dashed 5px blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ }
+
+ footer {
+     padding: 5px;
+     text-align: center;
+     font-style: italic;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10px;
+
+    }
